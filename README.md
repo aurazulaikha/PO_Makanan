@@ -55,14 +55,14 @@ Sistem ini dirancang untuk memudahkan proses pemesanan makanan dan minuman di ka
 
 ## 🚀 Cara Menjalankan Proyek (Local)
 
-### Backend (Flask):
-cd backend
-python -m venv venv
-source venv/bin/activate  # atau venv\Scripts\activate (Windows)
-pip install -r requirements.txt
-python app.py
+### 1. Backend (Flask):
+- cd backend
+- python -m venv venv
+- source venv/bin/activate  # atau venv\Scripts\activate (Windows)
+- pip install -r requirements.txt
+- python app.py
 
-### Frontend (Vue.js):
-cd frontend
-npm install
-npm run serve
+### 2. Frontend (Vue.js):
+- cd frontend
+- npm install
+- npm run serve
